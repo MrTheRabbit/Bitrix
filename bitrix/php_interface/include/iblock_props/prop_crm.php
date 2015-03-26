@@ -48,7 +48,7 @@ class CIBlockPropertyCRM {
 	 * @param mixed $strHTMLControlName
 	 * @return
 	 */
-	public static function GetTextVal( $arrProperty, $arrValue, $strHTMLControlName ){
+	public static function GetTextVal($arrProperty, $arrValue, $strHTMLControlName){
 		
 		$arrListCRM = self::GetListCompanyCRM();
 		
@@ -68,7 +68,7 @@ class CIBlockPropertyCRM {
 	 * @param mixed $strHTMLControlName
 	 * @return
 	 */
-	public static function GetPropertyFieldHtml( $arrProperty, $arrValue, $strHTMLControlName ){
+	public static function GetPropertyFieldHtml($arrProperty, $arrValue, $strHTMLControlName){
 
 		$arrListCRM = self::GetListCompanyCRM();
 		
