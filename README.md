@@ -1,4 +1,4 @@
-## Пользовательские свойства для инфоблоков [CMS Bitrix](https://www.1c-bitrix.ru/)
+## Пользовательские свойства для инфоблоков [CMS 1C-Bitrix](https://www.1c-bitrix.ru/)
 
 prop_crm.php (CIBlockPropertyCRM) - свойство "Выбор компании из CRM"
 
